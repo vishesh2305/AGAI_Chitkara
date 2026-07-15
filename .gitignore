@@ -1,0 +1,11 @@
+# Dataset
+Day6/data/
+
+# or only ignore the tar file
+Day6/data/oxford-iiit-pet/images.tar.gz
+
+# Ignore all datasets
+*.tar.gz
+*.zip
+*.h5
+*.pth
